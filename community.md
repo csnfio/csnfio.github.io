@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Community
+title: Community and Developers
 nav_order: 1
 description: "Cloud Security Notification Framework is the unified observability schema
   across all cloud platforms and services. Adoption of CSNF strengthens the performance
